@@ -6,6 +6,7 @@ import { withSafeAreaInsets } from 'react-native-safe-area-context';
 import { GiftedChat, Send } from 'react-native-gifted-chat'
 import * as Sharing from 'expo-sharing'; 
 import Icon from 'react-native-vector-icons/FontAwesome';
+
 //import { IconButton } from 'react-native-paper';
 
 
